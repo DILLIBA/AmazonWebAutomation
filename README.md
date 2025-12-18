@@ -19,3 +19,10 @@ It automates searching for a product on Amazon and validates that the product de
 ```bash
 mvn test 
      ```
+
+## Test Flow
+- Launch browser
+- Search product
+- Open product details page
+- Validate page load
+- Capture screenshot
